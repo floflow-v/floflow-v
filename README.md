@@ -1,6 +1,7 @@
 #  Hi, I'm Florian 👋
 
-### 👨‍💻 My portfolio -> [florian-vrst.fr](https://florian-vrst.fr)
+###  👨‍💻 My portfolio -> <a href="https://florian-vrst.fr" target="_blank">florian-vrst.fr</a>
+
 
 ##  Languages, Frameworks and Tools :
 <div align="center">
